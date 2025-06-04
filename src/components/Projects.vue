@@ -1,4 +1,3 @@
-<!-- src/components/Projects.vue -->
 <template>
     <section class="section projects">
         <h2 class="section__title">Latest projects</h2>

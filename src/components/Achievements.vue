@@ -1,4 +1,3 @@
-<!-- src/components/Achievements.vue -->
 <template>
     <section class="section achievements">
         <h2 class="section__title">Achievements</h2>
@@ -55,7 +54,6 @@
 </script>
 
 <style scored>
-
     .achievements__wrap {
         display: grid;
     }

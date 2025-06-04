@@ -1,4 +1,3 @@
-<!-- src/components/Awards.vue -->
 <template>
     <section class="section awards">
         <h2 class="section__title">Certificates & Awards</h2>

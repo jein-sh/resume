@@ -1,4 +1,3 @@
-<!-- src/components/Education.vue -->
 <template>
     <section class="section education">
         <h2 class="section__title">Education</h2>

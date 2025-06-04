@@ -1,4 +1,3 @@
-<!-- src/components/Tools.vue -->
 <template>
     <section class="section tools">
         <h2 class="section__title">Tools/Skills</h2>
@@ -63,7 +62,7 @@
     ]
 </script>
 
-<style>
+<style scored>
     .tools__wrap {
         display: grid;
         grid-template-columns: repeat(15, 1fr);
